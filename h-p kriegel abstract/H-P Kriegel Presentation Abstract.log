@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.10.2)  26 JAN 2016 01:12
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.10.2)  26 JAN 2016 01:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -792,6 +792,21 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 19.
 
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+\Gm@cnth=\count128
+\Gm@cntv=\count129
+\c@Gm@tempcnt=\count130
+\Gm@bindingoffset=\dimen131
+\Gm@wd@mp=\dimen132
+\Gm@odd@mp=\dimen133
+\Gm@even@mp=\dimen134
+\Gm@layoutwidth=\dimen135
+\Gm@layoutheight=\dimen136
+\Gm@layouthoffset=\dimen137
+\Gm@layoutvoffset=\dimen138
+\Gm@dimlist=\toks24
+)
 (./H-P Kriegel Presentation Abstract.aux
 LaTeX Font Info:    Try loading font information for T2A+cmr on input line 20.
 
@@ -800,38 +815,38 @@ File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ))
 \openout1 = `"H-P Kriegel Presentation Abstract.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count128
-\scratchdimen=\dimen131
+\scratchcounter=\count131
+\scratchdimen=\dimen139
 \scratchbox=\box56
-\nofMPsegments=\count129
-\nofMParguments=\count130
-\everyMPshowfont=\toks24
-\MPscratchCnt=\count131
-\MPscratchDim=\dimen132
-\MPnumerator=\count132
-\makeMPintoPDFobject=\count133
-\everyMPtoPDFconversion=\toks25
+\nofMPsegments=\count132
+\nofMParguments=\count133
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count134
+\MPscratchDim=\dimen140
+\MPnumerator=\count135
+\makeMPintoPDFobject=\count136
+\everyMPtoPDFconversion=\toks26
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -848,7 +863,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box57
-Package hyperref Info: Link coloring ON on input line 21.
+Package hyperref Info: Link coloring ON on input line 22.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -856,92 +871,130 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count134
+\c@section@level=\count137
 )
-LaTeX Info: Redefining \ref on input line 21.
-LaTeX Info: Redefining \pageref on input line 21.
-LaTeX Info: Redefining \nameref on input line 21.
+LaTeX Info: Redefining \ref on input line 22.
+LaTeX Info: Redefining \pageref on input line 22.
+LaTeX Info: Redefining \nameref on input line 22.
 
 (./H-P Kriegel Presentation Abstract.out)
 (./H-P Kriegel Presentation Abstract.out)
 \@outlinefile=\write3
 \openout3 = `"H-P Kriegel Presentation Abstract.out"'.
 
-\c@lstlisting=\count135
+\c@lstlisting=\count138
 
-Underfull \hbox (badness 10000) in paragraph at lines 24--26
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(76.78688pt, 460.72124pt, 76.78688pt)
+* v-part:(T,H,B)=(79.49698pt, 596.22748pt, 119.24553pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=460.72124pt
+* \textheight=596.22748pt
+* \oddsidemargin=4.51689pt
+* \evensidemargin=4.51689pt
+* \topmargin=-29.77301pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 27--31
+Underfull \hbox (badness 10000) in paragraph at lines 28--32
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 27--31
+Underfull \hbox (badness 10000) in paragraph at lines 28--32
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 27--31
+Underfull \hbox (badness 10000) in paragraph at lines 28--32
 
  []
 
 
-Overfull \hbox (10.4213pt too wide) in paragraph at lines 34--35
-\T2A/cmr/m/n/10.95 Maximilians-Universitat in Munich, Germany. He specializes i
-n cluster analysis,
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+
  []
 
 
-Overfull \hbox (27.4074pt too wide) in paragraph at lines 38--39
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+
+Overfull \hbox (1.45802pt too wide) in paragraph at lines 39--40
 []\T2A/cmr/m/n/10.95 Another topic covered by presentation is approach to onlin
-e news categorization
+e news categorization and discovering
  []
 
-
-Overfull \hbox (14.04254pt too wide) in paragraph at lines 38--39
-\T2A/cmr/m/n/10.95 by Max Zimmerman, Irene Ntoutsi, Zaigham Faraz Siddiqui, Myr
-a Spiliopoulou,
- []
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 40.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 41.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 40.
+(babel)             in language  on input line 41.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 40.
+(babel)             in language  on input line 41.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 40.
+(babel)             in language  on input line 41.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 40.
+(babel)             in language  on input line 41.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 40.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 41.
 
 (./H-P Kriegel Presentation Abstract.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 40.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 40.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 41.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 41.
 Package rerunfilecheck Info: File `"H-P Kriegel Presentation Abstract".out' has
  not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 40.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 41.
  ) 
 Here is how much of TeX's memory you used:
- 12181 strings out of 493304
- 164697 string characters out of 6139871
- 242078 words of memory out of 5000000
- 15533 multiletter control sequences out of 15000+600000
+ 12617 strings out of 493304
+ 170994 string characters out of 6139871
+ 256242 words of memory out of 5000000
+ 15965 multiletter control sequences out of 15000+600000
  8841 words of font info for 21 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 29i,5n,45p,1003b,350s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,5n,45p,1107b,350s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texmf
 /fonts/type1/public/cm-super/sfbx1095.pfb></usr/share/texmf/fonts/type1/public/
 cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pf
 b></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/
 fonts/type1/public/cm-super/sfti1095.pfb>
-Output written on "H-P Kriegel Presentation Abstract.pdf" (1 page, 104438 bytes
+Output written on "H-P Kriegel Presentation Abstract.pdf" (1 page, 104524 bytes
 ).
 PDF statistics:
  36 PDF objects out of 1000 (max. 8388607)
