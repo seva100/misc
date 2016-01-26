@@ -1,0 +1,54 @@
+\documentclass[11pt]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[english,russian]{babel}
+\usepackage{amssymb,amsmath}
+\usepackage{multicol}
+\usepackage{graphicx}
+\usepackage[hidelinks]{hyperref}
+\usepackage[procnames]{listings}
+\usepackage{color}
+
+\usepackage{xcolor}
+\hypersetup{
+    colorlinks,
+    linkcolor={red!50!black},
+    citecolor={blue!50!black},
+    urlcolor={blue!80!black}
+}
+\usepackage[scale=0.75]{geometry}
+
+\begin{document}
+	{\large {\bf Abstract} of {\bf``Extraction of textural image features''} presentation at the research group seminar
+	
+	 \href{http://www.machinelearning.ru/wiki/images/1/1d/Textures_slides_Sevastopolsky.pdf}{(original presentation in Russian)}
+	\newline
+	
+	{Artem Sevastopolsky, 2015}}
+	\newline
+	\newline
+	\newline
+	\par
+	Presentation \emph{``Extraction of textural image features''} was prepared at the seminar of A.G. D'yakonov research group. \newline
+	
+	The goal of the presentation was to give an overview of the most popular methods for extracting textural features from images (features that exploit properties of local parts of an image) and to tell what problems can be well-solved by texture analysis.\newline
+	
+	First of all, the definition of textures and classification of textures representing surface of material are given. Descriptive features such as first-order statistics and second-order statistics of grey-level distribution are shown, while the latter are based on Grey-Level Co-occurence Matrix (Haralick matrix). It is also shown how to compute the set of 14 Haralick features presented in the article {\bf <<Texture Features for Image Classification>>} by R.M. Haralick et al. Results of two series of experiments are shown: one from the R.M. Haralick article mentioned above and one from {\bf <<First and Second Order Statistics Features for Classification of Magnetic Resonance Brain Images>>} article by Namita Aggarwal, R. K. Agrawal. The latter article shows that Haralick features compined with powerful classifier such as SVM or KNN give impressive results in Alzheimer disease detection.\newline
+	
+	Another topic covered by the presentation is Gabor features -- the spectral features which are able to respond on specific types of texture. It is shown how to compute the bank of features and how Gabor filters can respond on lines of varying direction and thickness. It is also told that methods based on Gabor features are invariant to rotations and scaling of images, and how clustering can be performed on filter responses in order to solve texture synthesis task.\newline
+	
+	The presentation has been prepared based on several articles touching different methods and techniques of texture analysis, such as:
+	\begin{enumerate}
+		\item Dongxiao Zhou <<Texture Analysis and Synthesis using a Generic Markov-Gibbs Image Model>>
+		\item Robert M. Haralick, K. Shanmugam, Its'hak Dinstein <<Texture Features for Image \linebreak Classification>>
+		\item Thomas Leung, Jitendra Malik <<Representing and Recognizing the Visual Appearance of Materials using Three-dimensional Textons>>
+		\item B.S. Manjunathi and W.Y. Ma <<Texture Features for Browsing and Retrieval of Image Data>>
+		\item David J. Heeger, James R. Bergen <<Pyramid-Based Texture Analysis/Synthesis>>
+		\item Namita Aggarwal, R. K. Agrawal <<First and Second Order Statistics Features \linebreak for Classification of Magnetic Resonance Brain Images>>
+	\end{enumerate}
+	
+	
+	Some slides contain links to other articles related to specific method or technique.
+
+\end{document}
